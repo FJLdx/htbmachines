@@ -31,13 +31,15 @@ HTBMachines es un script diseñado para buscar información detallada sobre máq
 
 2	Asegúrate de que el script tiene permisos de ejecución:
 
-```chmod +x htbmachines.sh
+```
+chmod +x htbmachines.sh
 
 ```
 
 3	Opcional: Crea un enlace simbólico para ejecutarlo desde cualquier lugar:
 
-```sudo ln -s $(pwd)/htbmachines.sh /usr/local/bin/htbmachines
+```
+sudo ln -s $(pwd)/htbmachines.sh /usr/local/bin/htbmachines
 
 ```
 
@@ -45,7 +47,8 @@ Uso
 
 Para ejecutar el script, utiliza las siguientes opciones:
 
-```htbmachines -h
+```
+htbmachines -h
 
 ```
 
