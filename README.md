@@ -52,6 +52,7 @@ htbmachines -h
 Créditos
 
 Este script se creó como parte del curso de Hack4U impartido por @S4vitar. La base de datos y tutoriales utilizados son propiedad de @S4vitar.
-Nota
+
+Nota:
 
 Este proyecto está destinado exclusivamente para fines educativos en el contexto del hacking ético.
